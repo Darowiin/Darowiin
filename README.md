@@ -2,7 +2,7 @@
 
 <p align="center">
   ☕ Java developer passionate about architecture and high-performance systems<br>
-  🔧 Building pet projects with JavaFX, Spring, multithreading, and microservices<br>
+  🔧 Building pet projects with Spring Boot, PostgreSQL, Docker, and Redis<br>
   📘 I enjoy clean code, well-structured projects, and performance optimization
 </p>
 
@@ -10,13 +10,23 @@
 
 ### 🧠 Tech Stack & Interests
 
-- **Java SE / JavaFX** – desktop apps, graphic editors, UI/UX
-- **Spring Boot** – REST APIs, microservice architecture, deployment
-- **JPA / Hibernate** – database access and ORM
-- **Maven / Gradle** – build systems and dependency management
-- **JUnit / Mockito** – unit testing and test automation
-- **Multithreading** – `ExecutorService`, `ForkJoin`, concurrent data structures
-- **Algorithms & Data Structures** – solid foundation for efficient code
+- **Java / Spring Boot / Spring MVC / Spring Security** – backend services, REST APIs, authentication
+- **Spring Data JPA / Hibernate / Liquibase / Flyway** – ORM, migrations, data modeling
+- **PostgreSQL / Redis / MinIO (S3)** – database design, caching, file storage
+- **JUnit / Testcontainers / Mockito** – unit & integration testing
+- **Docker / Docker Compose / Linux (bash)** – containerization and deployment
+- **Swagger / REST** – documentation and API design
+- **HTML / CSS / Bootstrap** – UI basics for web apps
+
+---
+
+💼 Projects
+
+☁️ Cloud File Storage — backend for cloud storage: user auth, file management, S3 integration, Redis caching, Docker deployment.
+
+🌦️ WeatherAPI — REST service integrating with external APIs, storing history in PostgreSQL with Flyway migrations.
+
+🎾 Tennis Scoreboard — Java Servlets web app with Hibernate and HTML/CSS frontend.
 
 ---
 
