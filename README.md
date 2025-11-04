@@ -32,16 +32,14 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Darowiin&theme=transparent&show_icons=true&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darowiin&theme=transparent&layout=donut&hide_border=true" />
-</a>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darowiin&theme=transparent)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Darowiin&theme=transparent&hide_border=true&card_width=480&card_height=225)](https://git.io/streak-stats)
 
 ---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darowiin&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darowiin&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darowiin&theme=transparent)
 
 ### 📫 Contact Me
 
