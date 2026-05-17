@@ -10,23 +10,23 @@
 
 ### 🧠 Tech Stack & Interests
 
-- **Java / Spring Boot / Spring MVC / Spring Security** – backend services, REST APIs, authentication
-- **Spring Data JPA / Hibernate / Liquibase / Flyway** – ORM, migrations, data modeling
-- **PostgreSQL / Redis / MinIO (S3)** – database design, caching, file storage
-- **JUnit / Testcontainers / Mockito** – unit & integration testing
-- **Docker / Docker Compose / Linux (bash)** – containerization and deployment
-- **Swagger / REST** – documentation and API design
-- **HTML / CSS / Bootstrap** – UI basics for web apps
+- **Java Ecosystem** – Java Core, Spring Boot, Spring MVC, Spring Security, Spring Data JPA
+- **Databases & ORM** – PostgreSQL, MySQL, MongoDB, Redis, Hibernate, Liquibase, Flyway
+- **Database Security** – Role-Based Access Control (RBAC), data encryption, SQL injection prevention
+- **Infrastructure & SysAdmin** – Linux (Bash, systemd), Docker, Docker Compose, internal networking & firewalls (OPNsense, iptables)
+- **Testing & API** – JUnit, Testcontainers, Mockito, Swagger, REST
+- **Additional Skills** – HTML, CSS, JS, Bootstrap
 
 ---
 
-💼 Projects
+### 💼 Projects
 
-☁️ Cloud File Storage — backend for cloud storage: user auth, file management, S3 integration, Redis caching, Docker deployment.
-
-🌦️ WeatherAPI — REST service integrating with external APIs, storing history in PostgreSQL with Flyway migrations.
-
-🎾 Tennis Scoreboard — Java Servlets web app with Hibernate and HTML/CSS frontend.
+*   [**☁️ Cloud File Storage**](https://github.com/Darowiin/CloudFileStorage) - Backend for cloud storage. 
+    *   *Features:* User auth, file management, S3 integration, Redis caching, Docker deployment.
+*   [**🌦️ WeatherAPI**](https://github.com/Darowiin/WeatherApi) - REST service integrating with external APIs.
+    *   *Features:* Storing history in PostgreSQL with Flyway migrations.
+*   [**🎾 Tennis Scoreboard**](https://github.com/Darowiin/TennisScoreboard) - Web application for tracking matches.
+    *   *Features:* Built with Java Servlets, Hibernate, and an HTML/CSS frontend.
 
 ---
 
@@ -44,15 +44,6 @@
 ### 📫 Contact Me
 
 <p align="center">
-  <a href="https://vk.com/id413266422" target="_blank" style="text-decoration:none;outline:none">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"
-      alt="VK"
-      height="40"
-      border="0"
-      style="border:none; outline:none; vertical-align:middle;"
-    />
-  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Darowiin" target="_blank" style="text-decoration:none;outline:none">
     <img
